@@ -1,0 +1,105 @@
+{
+    "userId": "athlete_new_test",
+    "baseline": {
+        "weightKg": 82.0,
+        "heightCm": 180.0,
+        "gender": "M",
+        "bodyFatPercentage": 14.0,
+        "trainingExperienceMonths": 24
+    },
+    "history": {
+        "2026-06-01": {
+            "biometrics": {
+                "sleepHours": 8.0, "steps": 7500, "waterMl": 3000, "caloriesConsumed": 3100,
+                "proteinGrams": 170.0, "carbsGrams": 360.0, "fatGrams": 85.0,
+                "muscleSoreness": 1, "cnsFatigue": 1
+            },
+            "workout": {
+                "exercises": [{
+                    "exerciseId": "ex_b1", "category": "BENCH_PRESS",
+                    "sets": [{"setIndex": 1, "weight": 80.0, "reps": 8, "rpe": 7.0}]
+                }]
+            }
+        },
+        "2026-06-02": {
+            "biometrics": {
+                "sleepHours": 7.8, "steps": 8000, "waterMl": 2800, "caloriesConsumed": 3000,
+                "proteinGrams": 165.0, "carbsGrams": 340.0, "fatGrams": 80.0,
+                "muscleSoreness": 2, "cnsFatigue": 1
+            },
+            "workout": null
+        },
+        "2026-06-03": {
+            "biometrics": {
+                "sleepHours": 4.5, "steps": 14000, "waterMl": 1500, "caloriesConsumed": 1600,
+                "proteinGrams": 70.0, "carbsGrams": 180.0, "fatGrams": 45.0,
+                "muscleSoreness": 4, "cnsFatigue": 4
+            },
+            "workout": {
+                "exercises": [{
+                    "exerciseId": "ex_s1", "category": "SQUAT",
+                    "sets": [
+                        {"setIndex": 1, "weight": 125.0, "reps": 5, "rpe": 10.0},
+                        {"setIndex": 2, "weight": 125.0, "reps": 5, "rpe": 10.0},
+                        {"setIndex": 3, "weight": 120.0, "reps": 6, "rpe": 9.5}
+                    ]
+                }]
+            }
+        },
+        "2026-06-04": {
+            "biometrics": {
+                "sleepHours": 5.0, "steps": 11000, "waterMl": 1800, "caloriesConsumed": 1800,
+                "proteinGrams": 85.0, "carbsGrams": 200.0, "fatGrams": 50.0,
+                "muscleSoreness": 5, "cnsFatigue": 5
+            },
+            "workout": {
+                "exercises": [{
+                    "exerciseId": "ex_b2", "category": "BENCH_PRESS",
+                    "sets": [
+                        {"setIndex": 1, "weight": 100.0, "reps": 4, "rpe": 10.0},
+                        {"setIndex": 2, "weight": 95.0, "reps": 5, "rpe": 9.5}
+                    ]
+                }]
+            }
+        },
+        "2026-06-05": {
+            "biometrics": {
+                "sleepHours": 7.5, "steps": 5000, "waterMl": 2800, "caloriesConsumed": 2900,
+                "proteinGrams": 150.0, "carbsGrams": 320.0, "fatGrams": 75.0,
+                "muscleSoreness": 4, "cnsFatigue": 4
+            },
+            "workout": null
+        },
+        "2026-06-06": {
+            "biometrics": {
+                "sleepHours": 8.0, "steps": 4500, "waterMl": 3200, "caloriesConsumed": 3200,
+                "proteinGrams": 175.0, "carbsGrams": 370.0, "fatGrams": 85.0,
+                "muscleSoreness": 3, "cnsFatigue": 3
+            },
+            "workout": null
+        },
+        "2026-06-07": {
+            "biometrics": {
+                "sleepHours": 8.2, "steps": 5000, "waterMl": 3000, "caloriesConsumed": 3100,
+                "proteinGrams": 170.0, "carbsGrams": 350.0, "fatGrams": 80.0,
+                "muscleSoreness": 2, "cnsFatigue": 2
+            },
+            "workout": null
+        },
+        "2026-06-08": {
+            "biometrics": {
+                "sleepHours": 8.0, "steps": 6000, "waterMl": 3100, "caloriesConsumed": 3200,
+                "proteinGrams": 175.0, "carbsGrams": 380.0, "fatGrams": 85.0,
+                "muscleSoreness": 1, "cnsFatigue": 1
+            },
+            "workout": {
+                "exercises": [{
+                    "exerciseId": "ex_b3", "category": "BENCH_PRESS",
+                    "sets": [
+                        {"setIndex": 1, "weight": 60.0, "reps": 8, "rpe": 6.0}
+                    ]
+                }]
+            }
+        }
+    }
+}
